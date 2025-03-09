@@ -1,0 +1,11 @@
+{
+  "name": "python-bot",
+  "version": "1.0.0",
+  "description": "A project to install Python packages from Node.js",
+  "main": "index.js",
+  "scripts": {
+    "install-python-packages": "node install-python.js",
+    "start": "node index.js"
+  },
+  "dependencies": {}
+}
